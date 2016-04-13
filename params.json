@@ -1,0 +1,6 @@
+{
+  "name": "tnyOS",
+  "tagline": "A fun hobby OS that doesn't crash... Often.",
+  "body": "tnyOS- A fun hobby OS that doesn't crash... Often\r\ntnyOs is a very basic kernel (not really and OS yet) that has minimal code that is easy to digest. I suggest reading this code along with guides such as _The Little Book about OS Development._\r\n\r\n***\r\n\r\nTODO:\r\n* basic output functions\r\n* interrupt handler\r\n* basic input functions\r\n* system calls\r\n* shell",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
