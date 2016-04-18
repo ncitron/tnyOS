@@ -6,4 +6,6 @@ void puts(char *string, unsigned int color);
 void newline();
 void clear(unsigned int color);
 void scroll();
+void backspace(unsigned int color);
+void update_cursor(unsigned short cursor);
 #endif
